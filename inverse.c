@@ -1,3 +1,4 @@
+//matrix inverse
 #include <stdio.h>
 #include <stdlib.h>
 int a[3][3], adj[3][3], t[3][3];
