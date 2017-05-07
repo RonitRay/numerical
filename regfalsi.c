@@ -23,7 +23,7 @@ int main()
 			x2=nx;
 		else
 			x1=nx;
-
+		printf("%d\t%f\t%f\t%f\t%f\t%f\t%f\t%f\t\n",i,x1,x2,f(x1),f(x2),h,nx,f(nx));
 		i++;
 	}
 	printf("Root= %f\n", nx);
